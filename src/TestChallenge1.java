@@ -16,7 +16,7 @@ public class TestChallenge1 {
    Display.setSize(20, 20);
    Display.setSpeed(5);
    
-   Squarebot jordan = new Squarebot(9,3);
+   Squarebot pete = new Squarebot(9,3);
    
    pete.layCorners(5);
    pete.explode();
